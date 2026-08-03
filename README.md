@@ -22,6 +22,7 @@ Before software I spent 3+ years running high-volume retail operations (inventor
 | Project | What it is |
 | :-- | :-- |
 | **[SupplyChainCore](https://github.com/joseluismontezamilian12-rgb/SupplyChainCore-FullStack)** | Full-stack inventory system built on an immutable stock ledger that rejects negative balances in real time. Clean Architecture (Domain / Application / Infrastructure / WebApi), JWT + RBAC, unit-tested with xUnit & Moq. React + Vite frontend. |
+| **[Merma AI](https://github.com/joseluismontezamilian12-rgb/merma-ai)** · [live demo](https://joseluismontezamilian12-rgb.github.io/merma-ai/) | Inventory & shrinkage control I piloted at the fast-casual store I managed — order-cycle-aware recommendations from real consumption history (public repo ships sanitized demo data). React + Vite, zero backend. |
 | **[ECommerceEcosystem](https://github.com/joseluismontezamilian12-rgb/ECommerceEcosystem)** | Distributed .NET microservices: `Catalog.API` (SQL Server) + `Basket.API` (Redis) with synchronous HTTP communication and server-side price verification that blocks client-side price tampering. |
 | **[ECS Dashboard](https://github.com/joseluismontezamilian12-rgb/ecs-dashboard)** · [live demo](https://joseluismontezamilian12-rgb.github.io/ecs-dashboard/) | Retro-terminal React SPA monitoring a simulated ECS core in real time — 60 Hz telemetry and native canvas rendering of 150 entities. |
 

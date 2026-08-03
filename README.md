@@ -8,7 +8,7 @@ Before software I spent 3+ years running high-volume retail operations (inventor
 
 ## 🛠️ Tech Stack
 
-- **Backend:** C# (.NET 9), ASP.NET Core Web API, Minimal APIs, Entity Framework Core, Clean Architecture, JWT, RBAC
+- **Backend:** C# (.NET 10), ASP.NET Core Web API, Minimal APIs, Entity Framework Core, Clean Architecture, JWT, RBAC
 - **Frontend:** React 19, Vite, TypeScript, Tailwind CSS, Redux Toolkit
 - **Data:** SQL Server, PostgreSQL, Redis, EF Core Migrations
 - **Testing & tools:** xUnit, Moq, Git / GitFlow, Swagger / OpenAPI, Agile (Scrum)

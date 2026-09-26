@@ -5,8 +5,9 @@ Lima, Peru (GMT-5, overlaps US hours) · open to remote Backend or Full-Stack .N
 
 I build transactional systems in C#/.NET and React/TypeScript: REST APIs with Clean Architecture, EF Core, JWT/RBAC security and tested business rules. I came to software after 3+ years leading retail operations teams, so my projects attack problems I have owned first-hand — inventory, shrinkage and demand planning.
 
-- **Now:** Full-Stack Developer at **Manzana Verde** (food-tech, 1.4M+ orders) — automated the daily production-allocation decision across 7 partner kitchens with a TypeScript engine backed by **176 automated tests**.
 - **Own product:** **[Odontario](https://odontario.up.railway.app)**, a SaaS for dental practices in Peru, in production — **129 automated tests**, encrypted backups, clinical records under MINSA standards.
+- **Now:** IT support contractor at Peru's National Elections Jury (JNE) for the rollout of its collections module, plus freelance Node.js work.
+- **Previously:** Full-Stack Developer at **Manzana Verde** (food-tech, 1.4M+ orders, Jul–Sep 2026) — automated the daily production-allocation decision across 7 partner kitchens with a TypeScript engine backed by **176 automated tests**.
 - **Studying:** Systems Engineering at UPN, Lima.
 
 [Portfolio](https://joseluismontezamilian12-rgb.github.io/portafolio-frontend/) · [LinkedIn](https://www.linkedin.com/in/joseluismonteza) · [CV (EN)](https://joseluismontezamilian12-rgb.github.io/portafolio-frontend/Jose_Luis_Monteza_CV_FullStack_Developer.pdf) · [CV (ES)](https://joseluismontezamilian12-rgb.github.io/portafolio-frontend/Jose_Luis_Monteza_CV_FullStack_Developer_ES.pdf) · joseluismontezamilian12@gmail.com

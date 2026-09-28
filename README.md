@@ -6,7 +6,7 @@ Lima, Peru (GMT-5, overlaps US hours) · open to remote Backend or Full-Stack .N
 I build transactional systems in C#/.NET and React/TypeScript: REST APIs with Clean Architecture, EF Core, JWT/RBAC security and tested business rules. I came to software after 3+ years leading retail operations teams, so my projects attack problems I have owned first-hand — inventory, shrinkage and demand planning.
 
 - **Own product:** **[Odontario](https://odontario.up.railway.app)**, a SaaS for dental practices in Peru, in production — **129 automated tests**, encrypted backups, clinical records under MINSA standards.
-- **Now:** IT support contractor at Peru's National Elections Jury (JNE) for the rollout of its collections module, plus freelance Node.js work.
+- **Now:** developing and supporting the collections module of Peru's National Elections Jury (JNE) with Angular 21, Java (Spring Boot) and Oracle PL/SQL, plus freelance Node.js work.
 - **Previously:** Full-Stack Developer at **Manzana Verde** (food-tech, 1.4M+ orders, Jul–Sep 2026) — automated the daily production-allocation decision across 7 partner kitchens with a TypeScript engine backed by **176 automated tests**.
 - **Studying:** Systems Engineering at UPN, Lima.
 
@@ -28,11 +28,11 @@ I build transactional systems in C#/.NET and React/TypeScript: REST APIs with Cl
 
 ## Stack
 
-- **Languages:** C#, TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
-- **Backend:** .NET 10 / .NET 8, ASP.NET Core Web API, Minimal APIs, EF Core, Clean Architecture, Repository Pattern, LINQ, async/await, JWT, RBAC, Node.js
-- **Frontend:** React 19, Vite, Recharts, responsive design
-- **Data:** SQL Server, Azure SQL, Redis, SQLite, EF Core Migrations
-- **Testing & delivery:** xUnit, Moq, Playwright, GitHub Actions, Docker, Azure App Service, Swagger / OpenAPI, Git / GitFlow
+- **Languages:** C#, Java, TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3
+- **Backend:** .NET 10 / .NET 8, ASP.NET Core Web API, Minimal APIs, EF Core, Clean Architecture, Repository Pattern, LINQ, async/await, JWT, RBAC, Node.js, Java with Spring Boot
+- **Frontend:** React 19, Angular 21, Vite, Recharts, responsive design
+- **Data:** SQL Server, Azure SQL, Oracle (PL/SQL), Redis, SQLite, EF Core Migrations
+- **Testing & delivery:** xUnit, Moq, Playwright, GitHub Actions, Docker, Azure App Service, AWS, Swagger / OpenAPI, Git / GitFlow
 - **AI-assisted engineering:** GitHub Copilot, Cursor, Claude Code
 - **Business systems:** SAP (inventory & logistics), Kronos (workforce management)
 - **Languages spoken:** Spanish (native) · English (B1, async-first: comfortable in written technical English)
